@@ -1,1 +1,2 @@
-# microcontroller
+# microcontroller  
+This repository is designed for transmitting data through Bluetooth Low Energy. It is based on the modification of the BLE_Throughput example code of BLUENrg2 development kit, providing a foundation for transmitting data efficiently over BLE connections. With the BLE_Throughput imported in WiSESTUDIO, developers can directly modify the throughput.c file to customize data transmission according to any requirements.  
